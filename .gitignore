@@ -1,2 +1,3 @@
 stm32_red_pill-backups/
 production/backups/
+*.lck
