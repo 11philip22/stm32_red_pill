@@ -7119,7 +7119,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C5674"
+		(property "MPN" "C45783"
 			(at 71.12 163.83 0)
 			(effects
 				(font
@@ -8564,7 +8564,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C5674"
+		(property "MPN" "C45783"
 			(at 38.1 163.83 0)
 			(effects
 				(font
@@ -8787,7 +8787,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C14445"
+		(property "MPN" "C52923"
 			(at 147.32 41.91 0)
 			(effects
 				(font
@@ -8828,7 +8828,7 @@
 				)
 			)
 		)
-		(property "Value" "BLUE"
+		(property "Value" "RED"
 			(at 80.3275 152.4 0)
 			(effects
 				(font
@@ -8863,7 +8863,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C2288"
+		(property "MPN" "C2286"
 			(at 78.74 157.48 0)
 			(effects
 				(font
@@ -9343,7 +9343,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C25531"
+		(property "MPN" "C25744"
 			(at 69.85 59.69 0)
 			(effects
 				(font
@@ -10037,7 +10037,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C1691"
+		(property "MPN" "C19702"
 			(at 34.29 41.91 0)
 			(effects
 				(font
@@ -10327,7 +10327,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C14445"
+		(property "MPN" "C52923"
 			(at 165.1 41.91 0)
 			(effects
 				(font
